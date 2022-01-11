@@ -1,0 +1,26 @@
+body{
+    background-color: teal; /* Cor de fundo */
+    font: normal 15px Arial; /*Fonte das letras*/
+
+}
+
+header{
+    color: white; /* Cor das Letras*/
+    text-align: center; /*Centralizar texto */
+
+}
+
+section{
+    background: white; /* Cor de Fundo*/
+    border-radius: 20px; /* Bordas arredondadas */
+    padding: 25px; /* Espaço*/
+    width: 700px; /* Largura fixa na tela*/
+    margin: auto; /*Centralizar*/
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.377);
+}
+
+footer{
+    color: white; /* Cor das Letras*/
+    text-align: center; /*Centralizar texto */
+    font-style: italic;
+}
